@@ -1,4 +1,3 @@
 resume
-======
-/!nsss...ssdfsf
+/!ins/sss/
 Personal Resume
