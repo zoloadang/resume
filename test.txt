@@ -1,2 +1,2 @@
 Hello world!
-Git is control system!
+Git is a  control system!
